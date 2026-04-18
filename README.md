@@ -291,8 +291,8 @@ def apply_nodata_mask(corrected_band, nodata_value=0):
 
 ## 👤 Author
 
-**Your Name**
-- 🔗 GitHub: [@Vijay patidar](https://www.linkedin.com/in/vijay-patidar-78b186252/)
+**VIJAY PATIDAR**
+- 🔗 GitHub: [@Vijay patidar](https://github.com/VijayPatidar-01)
 - 📧 Email: patidr.vijay9973@gmail.com
 
 
